@@ -4,7 +4,7 @@
 I build APIs with Node.js, Express, and MongoDB, and I test them with Jest. Currently working on an E-Commerce API and learning OAuth.
 
 ## 🛠️ My Tech Stack
-   ![Skills](https://skillicons.dev/icons?i=typescript,javascript,nodejs,express,socket.io,mongodb,graphql,jest&theme=dark)
+   ![Skills](https://skillicons.dev/icons?i=typescript,javascript,nodejs,express,mongodb,graphql,jest&theme=dark)
 
 ## 🚀 What I'm Currently Working On
 - Building an E-Commerce API with GraphQL
